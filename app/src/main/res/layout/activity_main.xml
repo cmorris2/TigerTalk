@@ -22,7 +22,7 @@
         android:id="@+id/frag_one"
         android:name="com.example.zcolbeast.fragprac.Frag_One"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="0dp"
         tools:layout="@layout/frag_one"
         android:layout_weight="0.92" />
 
